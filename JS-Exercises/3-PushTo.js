@@ -1,6 +1,6 @@
 function myDB(db_arr, usrname, usremail, usrage) {
     db_arr.push(usrname, usremail, usrage);
-};
+}; // JavaScript function that helps to push to a DataBase
 
 const db1 = []; // Mocking a DataBase
 const db2 = []; // Multiple DataBase
