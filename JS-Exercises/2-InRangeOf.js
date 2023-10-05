@@ -2,7 +2,7 @@ function arrayFromRange (min, max) {
   for (let n = min; n <= max; n++)
   output.push(n);
   return output;
-}
+};
 
 const output = []; // This is an empty array
 
