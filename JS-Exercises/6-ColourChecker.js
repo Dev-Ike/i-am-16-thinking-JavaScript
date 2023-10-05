@@ -6,8 +6,8 @@ function colorChecker(color_arr, color) {
     }
 }; // JavaScript function that helps to check for colors
 
-const myColor = ["red", "blue", "green", "yellow", "black", "purple", "white", "grey", "cyan"]; // myColor array
+const myColor = ["red", "blue", "green", "yellow", "black", "purple", "white", "gray", "cyan", "pink", "orange", "aqua", "celeste", "cerise"]; // myColor array
 
 colorChecker(myColor, "red"); // Calling the colorChecker function with the following parameters
 
-console.log(myColor); // This will console.log the function
+console.log(myColor); // This will console.log the function and return the value and it index
