@@ -1,5 +1,5 @@
-function myDB(db_arr, usrname, usremail, usrage) {
-    db_arr.push(usrname, usremail, usrage);
+function myDB(db_arr, usr_name, usr_email, usr_age) {
+    db_arr.push(usr_name, usr_email, usr_age);
 }; // JavaScript function that helps to push to a DataBase
 
 const db1 = []; // Mocking a DataBase
