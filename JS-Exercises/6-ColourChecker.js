@@ -8,6 +8,6 @@ function colorChecker(color_arr, color) {
 
 const myColor = ["red", "blue", "green", "yellow", "black", "purple", "white", "gray", "cyan", "pink", "orange", "aqua", "celeste", "cerise"]; // myColor array
 
-colorChecker(myColor, "red"); // Calling the colorChecker function with the following parameters
+colorChecker(myColor, "red"); // Calling the colorChecker function with the specified parameters to check for the color
 
-console.log(myColor); // This will console.log the function and return the value and it index
+console.log(myColor); // This will console.log the myColor array
